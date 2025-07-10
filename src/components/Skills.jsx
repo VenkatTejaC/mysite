@@ -11,6 +11,7 @@ function Skills() {
     { name: "HTML5", image: "/images/skills/html.png" },
     { name: "CSS", image: "/images/skills/css.png" },
     { name: "JavaScript", image: "/images/skills/js.png" },
+    { name: "React", image: "/images/skills/react.png" },
     { name: "Azure Data Factory", image: "/images/skills/adf.png" },
     { name: "Databricks", image: "/images/skills/data bricks.png" },
     { name: "Webapps", image: "/images/skills/webapp.jpg" },
