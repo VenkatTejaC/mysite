@@ -15,10 +15,10 @@ function Projects() {
       link: "https://github.com/VenkatTejaC/NewsReact",  // Optional: You can add actual project links here
     },
     {
-     title: "project3",
+     title: "My Portfolio",
       image: "/images/projects/rainfall.png",
-      description: "Project3 Desc",
-      link: "#",  // Optional: You can add actual project links here
+      description: "My Portfolio created by using HTML5, CSS3, Java Script and React Framework and deployed online using Netlify",
+      link: "https://github.com/VenkatTejaC/mysite",  // Optional: You can add actual project links here
     },
 
     {

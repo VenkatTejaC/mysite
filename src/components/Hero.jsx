@@ -29,7 +29,7 @@ function Hero() {
 
       {/* Center Content */}
       <div className="relative z-10 mt-20">
-        <p className="text-2xl mt-4">Python Developer | London, UK</p>
+        <p className="text-2xl mt-4">Python Full Stack Developer | London, UK</p>
       </div>
     </section>
   );
