@@ -3,16 +3,16 @@ import React from 'react';
 function Projects() {
   const projectData = [
     {
-      title: "project1",
+      title: "Weather App",
       image: "/images/weather.png",
       description: "Weather App created by using Python Framework Flask and deployed online using Render",
-      link: "https://github.com/VenkatTejaC/weatherFlask.git",  // Optional: You can add actual project links here
+      link: "https://github.com/VenkatTejaC/weatherFlask",  // Optional: You can add actual project links here
     },
     {
-     title: "project2",
-      image: "/images/projects/rainfall.png",
-      description: "Project2 Desc",
-      link: "#",  // Optional: You can add actual project links here
+     title: "News Dashboard",
+      image: "/images/news.png",
+      description: "NewsDashboard App created by using React Framework and deployed online using Netlify",
+      link: "https://github.com/VenkatTejaC/NewsReact",  // Optional: You can add actual project links here
     },
     {
      title: "project3",
