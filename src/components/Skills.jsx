@@ -4,6 +4,7 @@ function Skills() {
   const skills = [
     { name: "Python", image: "/images/skills/python.png" },
     { name: "Django", image: "/images/skills/dj.jpeg" },
+    { name: "Flask", image: "/images/skills/flask.png" },
     { name: "REST API", image: "/images/skills/restapi.png" },
     { name: "FastAPI", image: "/images/skills/fastapi.png" },
     { name: "SQL", image: "/images/skills/sql.png" },
@@ -31,20 +32,20 @@ function Skills() {
 
       {/* Content */}
       <div className="relative z-10">
-        <h2 className="text-3xl font-bold mb-4 text-center">Skills</h2>
+        <h2 className="text-3xl font-bold mb-6 text-center">Skills</h2>
 
-        <ul className="grid grid-cols-[repeat(auto-fit,minmax(4rem,1fr))] gap-1">
+        <ul className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-8 gap-2">
           {skills.map((skill) => (
             <li
               key={skill.name}
-              className="flex flex-col items-center justify-center bg-blue-100 text-black p-1 rounded shadow-sm w-full h-20"
+              className="flex flex-col items-center justify-center bg-blue-100 text-black p-2 rounded shadow-sm h-24"
             >
               <img
                 src={skill.image}
                 alt={skill.name}
-                className="w-6 h-6 mb-1 object-contain"
+                className="w-14 h-14 mb-2 object-contain"
               />
-              <span className="text-center text-[10px]">{skill.name}</span>
+              <span className="text-center text-xs font-medium">{skill.name}</span>
             </li>
           ))}
         </ul>
