@@ -38,7 +38,7 @@ const projects = [
     title: 'Sports Club Management portal',
     image: 'project6.jpg',
     description: 'Management portal created by using Python Framework Django(backend) and ReactJS(frontend)',
-    link: 'https://github.com/yourusername/project6',
+    link: 'https://github.com/VenkatTejaC/SportsClubDjangoReact',
   },
 ];
 
