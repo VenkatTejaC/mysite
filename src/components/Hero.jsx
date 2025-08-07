@@ -16,7 +16,7 @@ function Hero() {
       <div className="fixed top-0 left-0 w-full flex justify-between items-center p-4 bg-black bg-opacity-50 text-white z-50">
         {/* Left: Clickable Name */}
         <a href="/" className="no-underline text-3xl font-bold hover:text-blue-400">
-          Tej C
+          Teja C
         </a>
 
         {/* Right: Navigation links */}

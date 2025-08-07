@@ -17,9 +17,8 @@ const projects = [
   },
   {
     title: 'My Portfolio',
-    image: 'project3.jpg',
-    description:
-      'My Portfolio created by using HTML5, CSS3, Java Script and React Framework and deployed online using Netlify',
+    image: '/images/portfolio.png',
+    description:'My Portfolio created by using HTML5, CSS3, Java Script and React Framework and deployed online using Netlify',
     link: 'https://github.com/VenkatTejaC/mysite',
   },
   {
@@ -36,7 +35,7 @@ const projects = [
   },
   {
     title: 'Sports Club Management portal',
-    image: 'project6.jpg',
+    image: '/images/sportsclub.png',
     description: 'Management portal created by using Python Framework Django(backend) and ReactJS(frontend)',
     link: 'https://github.com/VenkatTejaC/SportsClubDjangoReact',
   },
