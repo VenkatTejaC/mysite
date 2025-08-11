@@ -39,6 +39,12 @@ const projects = [
     description: 'Management portal created by using Python Framework Django(backend) and ReactJS(frontend)',
     link: 'https://github.com/VenkatTejaC/SportsClubDjangoReact',
   },
+  {
+    title: 'Stock Prediction App',
+    image: '/images/stockpred.png',
+    description: 'Stock Prediction App created by using FastAPI(Backend) and ReactJS(frontend)',
+    link: 'https://github.com/VenkatTejaC/StockPredictionWebApp',
+  },
 ];
 
 const Projects = () => {
