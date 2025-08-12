@@ -45,6 +45,12 @@ const projects = [
     description: 'Stock Prediction App created by using FastAPI(Backend) and ReactJS(frontend)',
     link: 'https://github.com/VenkatTejaC/StockPredictionWebApp',
   },
+  {
+    title: 'File Share App',
+    image: '/images/fileshare.png',
+    description: 'File Share App created by using FastAPI(Backend) and ReactJS(frontend)',
+    link: 'https://github.com/VenkatTejaC/FileShare',
+  },
 ];
 
 const Projects = () => {
