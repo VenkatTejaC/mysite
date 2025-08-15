@@ -68,7 +68,7 @@ function Contact() {
           <div className="flex items-center space-x-3">
             <h2 className="text-3xl font-bold mb-4">Via LinkedIn</h2><br />
             <FaLinkedin />
-            <a href="https://linkedin.com/in/vtc99" target="_blank" rel="noopener noreferrer" className="font-bold hover:text-blue-400">
+            <a href="www.linkedin.com/in/tejac15" target="_blank" rel="noopener noreferrer" className="font-bold hover:text-blue-400">
               linkedin.com/in/vtc99
             </a>
           </div>

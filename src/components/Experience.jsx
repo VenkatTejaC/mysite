@@ -16,7 +16,7 @@ function Experience() {
         <h2 className="text-3xl font-bold mb-4 text-center">Experience</h2>
 
         <div className="space-y-4">
-          <h3 className="text-2xl text-center font-semibold">Python Developer – Chubb Ltd (2023 – Present)</h3>
+          <h3 className="text-2xl text-center font-semibold">Python Developer – Infosys (2023 – Present)</h3>
           <h3 className="text-2xl text-center font-semibold">Python Project Engineer – Wipro Ltd (2020 – 2022)</h3>
         </div>
 
