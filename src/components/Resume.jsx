@@ -22,7 +22,7 @@ function Resume() {
 
         {/* Download Icon as a Link */}
         <a
-          href="/resume/PythonDeveloper.pdf"  // ✅ Correct relative path
+          href="/resume/Python_Fullstack_Developer.pdf"  // ✅ Correct relative path
           download
           className="text-white text-4xl hover:text-blue-400 transition"
           title="Download Resume"
